@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saurabh Yadav</h1>
-<h3 align="center">MCA student | Aspiring Full Stack Developer | Passionate about DSA and Web Dev</h3>
+<h3 align="center">MCA Student at NIT Allahabad | Aspiring Full Stack Developer | Passionate about DSA and Web Dev</h3>
 
 ---
 
-- 🌱 I’m currently learning **Spring Boot**, **MongoDB**, and **Data Science**
-- 👨‍💻 I’m actively solving DSA problems on **LeetCode** (900+ problems solved)
-- 🔭 I recently built a full-stack project: [**Student Expense Tracker**](https://github.com/369Saur/Expense-Tracker.git)
-- 💼 I worked on the frontend for **EasyFarm** – a MERN-based agri e-commerce platform
-- 📫 Reach me at: **saurabh369official@gmail.com**
+- 🎓 Pursuing **MCA from NIT Allahabad**
+- 📫 Reach me at: **369saur@gmail.com**
 - ⚡ Fun fact: I love debugging more than coding 😄
 
 ---
@@ -46,13 +43,32 @@
 
 ---
 
+### 🌐 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/saurabh-yadav-1a789a249/)
+- 🧠 [LeetCode](https://leetcode.com/u/saurabh2404/)
+- 🧩 [Codeforces](https://codeforces.com/profile/369saur)
+- 📘 [GeeksforGeeks](https://www.geeksforgeeks.org/user/369saur/)
+- 📩 Gmail: **369saur@gmail.com**
+
+---
+
 ### 💬 Let's Connect!
 
-<a href="https://linkedin.com/in/saurabh369" target="_blank">
+<a href="https://www.linkedin.com/in/saurabh-yadav-1a789a249/" target="_blank">
   <img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:saurabh369official@gmail.com" target="_blank">
+<a href="mailto:369saur@gmail.com" target="_blank">
   <img align="left" alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://leetcode.com/u/saurabh2404/" target="_blank">
+  <img align="left" alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://codeforces.com/profile/369saur" target="_blank">
+  <img align="left" alt="Codeforces" src="https://img.shields.io/badge/Codeforces-1f8acb?style=flat&logo=codeforces&logoColor=white"/>
+</a>
+<a href="https://www.geeksforgeeks.org/user/369saur/" target="_blank">
+  <img align="left" alt="GeeksforGeeks" src="https://img.shields.io/badge/GFG-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <br /><br />
