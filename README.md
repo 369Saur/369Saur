@@ -35,10 +35,28 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=369Saur&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical" height="200" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=369Saur&theme=radical" height="200" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 💼 Projects
 
 - 🔹 [MNNIT-CONNECT-HUB](https://github.com/369Saur/MNNIT-CONNECT-HUB)  
 - 🔹 [Easy-Farm](https://github.com/369Saur/Easy-Farm)  
+
+---
+
+## 📚 Education
+
+🎓 Master of Computer Applications  
+📍 Motilal Nehru National Institute of Technology, Allahabad  
+📆 2022–2025  
 
 ---
 
@@ -90,10 +108,3 @@
   <a href="https://github.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" height="80" alt="GitHub" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linux.org/"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" height="80" alt="Linux" /></a>
 </p>
----
-
-## 📚 Education
-
-🎓 Master of Computer Applications  
-📍 Motilal Nehru National Institute of Technology, Allahabad  
-📆 2022–2025  
